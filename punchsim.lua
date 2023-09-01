@@ -69,7 +69,7 @@ local GeneralTab = Window:MakeTab({
 })
 
 -- Elements
-MainTab:AddParagraph("made by", "seilaquem")
+MainTab:AddParagraph("made by", "neco")
 
 -- Main
 local autoPunchEnabled = false
